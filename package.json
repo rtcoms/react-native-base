@@ -40,10 +40,10 @@
 		"eslint-plugin-jsx-a11y": "5.0.3",
 		"eslint-plugin-react": "7.0.1",
 		"jest": "23.6.0",
+		"jest-enzyme": "^7.0.1",
+		"jsdom": "^13.0.0",
+		"react-dom": "16.3.1",
 		"react-test-renderer": "16.3.1",
 		"redux-logger": "^3.0.6"
-	},
-	"jest": {
-		"preset": "react-native"
 	}
 }
